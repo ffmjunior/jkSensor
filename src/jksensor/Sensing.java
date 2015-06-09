@@ -75,5 +75,9 @@ public class Sensing {
     public String toString() {
         return "IPv6 " + ipv6 + " IP " + ip + " data " + data;
     }
+    
+    public void test(){
+        
+    }
 
 }
